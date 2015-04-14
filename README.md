@@ -6,7 +6,7 @@ To Tame A Land is a HTML5 remake originally written on the Apple II in 1992. It 
 
 
 - You are a knight who has to defeat other knights, ghosts, fireballs and eventually a demon in the depths of the caves. The game is not finished.
-- Version 0.9.1
+- Version 0.9.2
 
 #Setup
 
