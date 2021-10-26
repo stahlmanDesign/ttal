@@ -1,14 +1,18 @@
-# README
+# To Tame A Land
 
+<p>
 <img src="./ttal.gif"/>
 <figcaption>
-Animated gif of the game
+  <em>Animated gif of the game</em>
 </figcaption>
+</p>
 
+<p>
 <img src="./ttal.png"/>
 <figcaption>
-Screen capture
+  <em>Screen capture</em>
 </figcaption>
+</p>
 
 To Tame A Land is a HTML5 remake originally written on the Apple II in 1992. It uses the ImpactJS game engine. It also uses the impact-node server instead of Impact's built-in PHP solution for the Weltmeister editor and for baking.
 
